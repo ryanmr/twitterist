@@ -45,3 +45,7 @@ For no reason. Could be entirely local. It would be 100% simpler if it was too.
 ### Why does this use hono?
 
 Hono is a ready-to-use router for Cloudflare Workers. It provides immense quality of life compared to plain workers. If this were entirely local though, Hono would be unnecessary. 
+
+### Did you really write this?
+
+Robots wrote a lot of it.
