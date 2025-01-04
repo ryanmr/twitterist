@@ -30,6 +30,10 @@ pnpm run deploy
 
 ## FAQ
 
+### Why is it called `twitterist`?
+
+For no reason. It could have been called `twitter4ever` but that seems less than ideal for a subdomain later.
+
 ### Why does this exist?
 
 If I want to share a tweet, I manually change the URL from `x.com` to `twitter.com`. One day that could break, but until then, to keep the dream alive, I could use this to partially automate the conversion. This could also be a Chrome/Firefox extension, or also integrate through a Share Sheet.
