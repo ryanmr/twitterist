@@ -44,6 +44,18 @@ app.get("/", (ctx) => {
           </fieldset>
           <button type="submit">Convert</button>
         </form>
+        <hr />
+
+        <div class="text-sm credits">
+          <ul>
+            <li>
+              <a href="https://twitter.com/ryanmr">twitter</a>
+            </li>
+            <li>
+              <a href="https://github.com/ryanmr/twitterist">repository</a>
+            </li>
+          </ul>
+        </div>
       </main>
     </Layout>
   );
