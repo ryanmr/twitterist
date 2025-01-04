@@ -8,7 +8,8 @@ You can use the form. After conversion, clicking on the text box will automatica
 
 You can also use the advanced automatic feature:
 
-1. Go to `<root>/<https://x.com/...>`
+1. Go to `https://twitterist.ryanmr.workers.dev/<https://x.com/...>`
+    [example](https://twitterist.ryanmr.workers.dev/https://x.com/ryanmr/status/1874334743824679005)
 2. Copy the converted url as usual
 
 ## Development
